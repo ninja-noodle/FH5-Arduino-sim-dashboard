@@ -20,6 +20,11 @@ A custom, low-latency DIY sim racing dashboard built from scratch. This project 
 * **7-Segment Display** (Common Cathode)
 * **Single LED** (for the RPM shift light)
 * **Jumper Wires & Breadboard**
+
+---
+
+## Schematics
+![Circuit Schematic](schematic_v.png)
   
 ---
 
