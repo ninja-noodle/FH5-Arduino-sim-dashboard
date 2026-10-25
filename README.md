@@ -24,7 +24,7 @@ A custom, low-latency DIY sim racing dashboard built from scratch. This project 
 ---
 
 ## Schematics
-![Circuit Schematic](schematic_v.png)
+![Circuit Schematic](schematic.png)
   
 ---
 
