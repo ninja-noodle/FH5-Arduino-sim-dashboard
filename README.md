@@ -25,6 +25,7 @@ A custom, low-latency DIY sim racing dashboard built from scratch. This project 
 
 ## Schematics
 ![Circuit Schematic](schematic.png)
+*This schematics is the correct way to build this circuit, which is also different from the one shown in the youtube video.*
   
 ---
 
